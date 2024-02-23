@@ -5,7 +5,6 @@ import './app.css'
 import TopStories from './components/TopStories'
 
 function App() {
-  // Routes for the top story, and then :storyId for the comments of each story
   return (
     <>
       <TopStories />
